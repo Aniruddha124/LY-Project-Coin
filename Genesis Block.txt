@@ -1,0 +1,35 @@
+
+Genesis Block Input Parameters
+			
+Timestamp Message   : On this day in 11th Jan, 2023 we started creation of VerCoin
+Timestamp           : 1673434061 
+Block Rewards       : 100
+PUB Secretkey       : 042384710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9
+    
+    
+    
+------------------------------Main Net--------------------------------------------------------
+  
+Time Stamp	    : 1673434061
+Bits			: 0x1e0ffff0
+Nonce			: 2000742599
+Merkle  Hash	: 0x9ad8474a4cf983321a8d42f3f144957ddada6cf51e8ca4591c55a732a9bcfec6
+Genesis Hash	: 0xcdec130746e17d00fbfccf0a062a2bd08946c8df6f81d90d3d8af4740bba71c3 
+  
+     
+------------------------------Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1673434061
+Bits			: 0x1e0ffff0
+Nonce			: 2685235
+Merkle  Hash	: 0x9ad8474a4cf983321a8d42f3f144957ddada6cf51e8ca4591c55a732a9bcfec6
+Genesis Hash	: 0x81df233b36f11aa31e22e3b893793e419212061faa65b3ca2caa58d7f45b55fd 
+     
+     
+------------------------------Regression Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1673434061
+Bits			: 0x207fffff
+Nonce			: 0
+Merkle  Hash	: 0x9ad8474a4cf983321a8d42f3f144957ddada6cf51e8ca4591c55a732a9bcfec6
+Genesis Hash	: 0x9ca0f4c4c9159b3a9f5eff65656c44c4627db914fad8773b78e2158ce680835b 
